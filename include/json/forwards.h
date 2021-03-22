@@ -11,7 +11,6 @@
 #endif // if !defined(JSON_IS_AMALGAMATION)
 
 namespace Json {
-
 // writer.h
 class StreamWriter;
 class StreamWriterBuilder;
@@ -37,7 +36,6 @@ class Value;
 class ValueIteratorBase;
 class ValueIterator;
 class ValueConstIterator;
-
 } // namespace Json
 
 #endif // JSON_FORWARDS_H_INCLUDED
